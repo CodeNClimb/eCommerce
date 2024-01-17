@@ -23,7 +23,7 @@ The repository contains a spring boot application that has been containerized us
 ## Setting Up - CLONE THE PROJECT
 - Open a terminal or command prompt (Powershell on Windows and Terminal or linux or macOs)
 - Navigate to the directory you want to clone the project. e.g. `cd path/to/your/directory`
-- Run `git clone git@github.com:msackey-IW/springboot-docker-openapi-generator.git`
+- Run `git clone git@github.com:msackey-IW/springboot-docker-eCommerce.git`
 - Run cd "openapi`
 - Run `docker-compose up`. This will create and run the eCommerce springboot application.
 - All available endpoints are available on [swagger](http://localhost:8080/swagger-ui/index.html)
